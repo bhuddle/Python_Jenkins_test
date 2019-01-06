@@ -1,4 +1,7 @@
 #test
+import os
+import system
+
 print 'hello world'
-while True:
-    print "j"
+
+os.getdir()
