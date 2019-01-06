@@ -3,5 +3,5 @@ def test_one():
     assert nada is ''
     
 def test_two():
-    far = 'h'
+    far = 'z'
     assert far in 'hello'
