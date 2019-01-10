@@ -15,7 +15,7 @@ int main() {
     while (true) {
         cout << "While loop counter is: " << counter << endl;
         counter++;
-        if (counter < 10) {
+        if (counter >= 10) {
             break;
         }
     };
